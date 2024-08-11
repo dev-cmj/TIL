@@ -1,6 +1,5 @@
 # Vue.js
 
-
 ## Option API vs Composition API
 
 ### Option API
@@ -11,16 +10,16 @@
 
 ```javascript
 export default {
-  data() {
-    return {
-      count: 0
+    data() {
+        return {
+            count: 0
+        }
+    },
+    methods: {
+        increment() {
+            this.count++
+        }
     }
-  },
-  methods: {
-    increment() {
-      this.count++
-    }
-  }
 }
 ```
 
@@ -31,22 +30,22 @@ export default {
 - 컴포넌트의 기능별로 묶어서 관리 가능
 - 코드의 재사용성이 높아짐 (setup 함수 내에서 훅과 같은 기능을 정의하여 다른 컴포넌트에서 사용 가능)
 - 타입스크립트와 호환성이 더 좋고 명시적 타입 정의가 용이
-- 
+
 ```javascript
-import { ref } from 'vue'
+import {ref} from 'vue'
 
 export default {
-  setup() {
-    const count = ref(0)
-    const increment = () => {
-      count.value++
-    }
+    setup() {
+        const count = ref(0)
+        const increment = () => {
+            count.value++
+        }
 
-    return {
-      count,
-      increment
+        return {
+            count,
+            increment
+        }
     }
-  }
 }
 ```
 
@@ -58,3 +57,7 @@ export default {
 | 코드 재사용성       | mixin을 사용하나 충돌 가능성 있음 | 훅을 사용하여 쉽게 재사용 가능    |
 | 코드 구조화        | 기능별로 나누어짐             | 관련 코드들을 그룹화 가능       |
 
+### Reference
+[Vue 3 Composition API](https://v3.vuejs.org/guide/composition-api-introduction.html)
+
+[Vue 3 Why Composition API](https://v3.vuejs.org/guide/composition-api-introduction.html#why-composition-api)

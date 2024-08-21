@@ -4,7 +4,7 @@
 매일 공부한 내용을 적기
 
 
-_3 TILs and counting..._
+_4 TILs and counting..._
 
 ---
 
@@ -19,6 +19,7 @@ _3 TILs and counting..._
 
 ### [react](#react)
 - [리액트 (1)](react/1.md)
+- [이벤트 처리하기](react/2.md)
 
 ### [vue](#vue)
 - [Vue.js](vue/Vue_Study_1.md)

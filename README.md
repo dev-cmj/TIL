@@ -4,15 +4,19 @@
 매일 공부한 내용을 적기
 
 
-_4 TILs and counting..._
+_6 TILs and counting..._
 
 ---
 
 ### Categories
 
+- [kotlin](#kotlin)
 - [next-js](#next-js)
 - [react](#react)
 - [vue](#vue)
+
+### [kotlin](#kotlin)
+- [Kotlin에서 변수를 다루는 방법](kotlin/Kotlin_1.md)
 
 ### [next-js](#next-js)
 - [Next.js](next-js/1.md)
@@ -23,6 +27,7 @@ _4 TILs and counting..._
 
 ### [vue](#vue)
 - [Vue.js](vue/Vue_Study_1.md)
+- [Setup](vue/Vue_Study_2.md)
 
 [1]: https://github.com/jbranchaud/til
 

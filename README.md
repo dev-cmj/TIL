@@ -4,7 +4,7 @@
 매일 공부한 내용을 적기
 
 
-_6 TILs and counting..._
+_7 TILs and counting..._
 
 ---
 
@@ -17,6 +17,7 @@ _6 TILs and counting..._
 
 ### [kotlin](#kotlin)
 - [Kotlin에서 변수를 다루는 방법](kotlin/Kotlin_1.md)
+- [Kotlin에서 null을 다루는 방법](kotlin/Kotlin_2.md)
 
 ### [next-js](#next-js)
 - [Next.js](next-js/1.md)

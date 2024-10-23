@@ -17,7 +17,7 @@ _8 TILs and counting..._
 - [vue](#vue)
 
 ### [event](#event)
-- [이벤트 기반 아키텍처(Event-Driven Architecture) 정의 및 활용](event/event_1.md)
+- [이벤트 기반 아키텍처(Event-Driven Architecture) 정의 및 활용](event/Event-Driven-Architecture)
 
 ### [kotlin](#kotlin)
 - [Kotlin에서 변수를 다루는 방법](kotlin/Kotlin_1.md)

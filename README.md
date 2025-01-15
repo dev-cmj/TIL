@@ -4,13 +4,14 @@
 매일 공부한 내용을 적기
 
 
-_10 TILs and counting..._
+_11 TILs and counting..._
 
 ---
 
 ### Categories
 
 - [event](#event)
+- [flutter](#flutter)
 - [kotlin](#kotlin)
 - [next-js](#next-js)
 - [react](#react)
@@ -19,6 +20,9 @@ _10 TILs and counting..._
 ### [event](#event)
 - [이벤트 기반 아키텍처(Event-Driven Architecture) 정의 및 활용](event/Event-Driven-Architecture.md)
 - [Apache Kafka](event/Kafka.md)
+
+### [flutter](#flutter)
+- [Flutter](flutter/Flutter_1.md)
 
 ### [kotlin](#kotlin)
 - [일반적으로 코틀린 애플리케이션 실행 진입점은 main 함수이다.](kotlin/JVM의 프로세스와 스레드.md)

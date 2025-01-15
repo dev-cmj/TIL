@@ -4,18 +4,24 @@
 매일 공부한 내용을 적기
 
 
-_7 TILs and counting..._
+_10 TILs and counting..._
 
 ---
 
 ### Categories
 
+- [event](#event)
 - [kotlin](#kotlin)
 - [next-js](#next-js)
 - [react](#react)
 - [vue](#vue)
 
+### [event](#event)
+- [이벤트 기반 아키텍처(Event-Driven Architecture) 정의 및 활용](event/Event-Driven-Architecture.md)
+- [Apache Kafka](event/Kafka.md)
+
 ### [kotlin](#kotlin)
+- [일반적으로 코틀린 애플리케이션 실행 진입점은 main 함수이다.](kotlin/JVM의 프로세스와 스레드.md)
 - [Kotlin에서 변수를 다루는 방법](kotlin/Kotlin_1.md)
 - [Kotlin에서 null을 다루는 방법](kotlin/Kotlin_2.md)
 
